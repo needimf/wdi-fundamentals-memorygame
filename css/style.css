@@ -1,0 +1,59 @@
+header {
+  background-color: #f15b31;
+  padding: 30px 20px;
+}
+
+nav {
+  background-color: #00a6b3;
+  padding: 20px 0;
+}
+
+main {
+  width: 850px;
+  margin: 35px auto;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+img {
+  margin: 40px 8px 0 8px;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 45px;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+a {
+  margin: 0 20px;
+}
+
+.tab {
+  font-family: "Raleway", sans-serif;
+  color: #Ffffff;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  color: #0D2C40;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+p {
+  font-family: "Droid Serif", serif;
+  line-height: 26px;
+  font-size: 18px;
+}
