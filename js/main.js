@@ -58,3 +58,14 @@ var createBoard = function () {
 };
 
 createBoard();
+
+var reset = function () {
+  window.location.reload();
+}
+
+var resetButton = document.getElementById('reset');
+resetButton.addEventListener('click', reset);
+
+
+
+
